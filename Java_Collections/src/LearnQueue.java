@@ -6,5 +6,6 @@ public class LearnQueue {
 //        add from rear and remove from front
 //        creation
         Queue<String> queue = new LinkedList<>();
+
     }
 }
